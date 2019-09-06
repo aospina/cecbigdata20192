@@ -106,13 +106,14 @@ comandos:
 
 ## 4. GESTIÓN DE ARCHIVOS VÍA AMBARI WEB
 
+* Recuerde antes de hacer este paso Descargar los Datasets al computador o por shell al home del usuario (/home/cecXXcurso)
 * Login
 
 ![login](ambari/Ambari-hdfs-01.png)
 
 ![login](ambari/Ambari-hdfs-02.png)
 
-![login]ambari/Ambari-hdfs-03.png)
+![login](ambari/Ambari-hdfs-03.png)
 
 * Opciones de usuario
 
@@ -124,13 +125,13 @@ comandos:
 
 ![Home](ambari/Ambari-hdfs-06.png)
 
-* Crear un directorio
+* Crear el directorio datasets en el Home del usuario (/user/cecXXcurso)
 
 ![Crear directorio](ambari/Ambari-hdfs-07.png)
 
 ![Crear directorio](ambari/Ambari-hdfs-08.png)
 
-* Subir (upload)  un directorio
+* Subir (upload) el archivo al directorio creado (verifique la ruta para subirlo)
 
 ![Subir archivo](ambari/Ambari-hdfs-09.png)
 
