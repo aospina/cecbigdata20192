@@ -1,6 +1,6 @@
 # Universidad EAFIT
-# Curso CEC Big Data, 20191
-# Profesor: Edwin Montoya M. – emontoya@eafit.edu.co
+# Curso CEC Big Data, 20192
+# Profesor: Alvaro Ospina S. – aeospinas@eafit.edu.co
 
 # Laboratorio HDFS - Mysql -> HDFS vía SQOOP
 
@@ -8,13 +8,12 @@
 
 Ambari Web
 
-    https://hdp1.dis.eafit.edu.co (sandbox)
-    https://hdp2.dis.eafit.edu.co (cluster)
+    https://hdp15.dis.eafit.edu.co (sandbox)
+
 
 Terminal:
 
-    https://hdp1shell.dis.eafit.edu.co (sandbox)
-    https://hdp2shell.dis.eafit.edu.co (cluster)
+    https://hdp15shell.dis.eafit.edu.co (sandbox)
 
 Usuarios:
 
